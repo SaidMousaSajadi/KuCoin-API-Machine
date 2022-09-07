@@ -5,4 +5,5 @@ How to download the software and how does it work?
 	https://www.youtube.com/watch?v=5sHFtfC5W2A
 
 - Where to download the software?
-	https://www.terabox.com/main?category=all&path=%2FApplications
+	Version 1 = https://bit.ly/3Rq8oYa
+	Version 2 = https://bit.ly/3RoeZlL
