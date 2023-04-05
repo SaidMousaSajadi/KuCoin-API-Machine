@@ -7,3 +7,5 @@ How to download the software and how does it work?
 - Where to download the software?
 	Version 1 = https://terabox.com/s/1I-kIsBeMpDzoXoKjyvuhfw
 	Version 2 = https://terabox.com/s/1Z2Zrcp7KNHmMn61M1PnVTA
+	Version 3 = https://terabox.com/s/1oKSVtCXuzhUOJSFWKhJkvw
+
